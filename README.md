@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Wildcat Audit
 
 Audit findings are submitted to this repo.
 
