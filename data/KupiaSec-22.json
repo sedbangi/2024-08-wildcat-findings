@@ -1,0 +1,8 @@
+{
+  "contest": 434,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "Missing `isHooked` check when calling `onQueueWithdrawal` hook function",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/22"
+}
