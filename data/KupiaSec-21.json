@@ -1,0 +1,8 @@
+{
+  "contest": 434,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "An incorrect value of state.isDelinquent might impact the functionality of hook operations.",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/21"
+}
