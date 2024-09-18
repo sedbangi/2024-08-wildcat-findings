@@ -1,0 +1,8 @@
+{
+  "contest": 434,
+  "handle": "gesha17",
+  "risk": "3",
+  "title": "Providers can replace credentials from other providers allowing a rogue or malicios provider to revoke all lenders credentials",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/10"
+}
