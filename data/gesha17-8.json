@@ -1,0 +1,8 @@
+{
+  "contest": 434,
+  "handle": "gesha17",
+  "risk": "2",
+  "title": "pushProtocolFeeBipsUpdates will unexpectedly revert on closed markets",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/8"
+}
