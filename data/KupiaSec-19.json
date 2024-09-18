@@ -1,0 +1,8 @@
+{
+  "contest": 434,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "Wrong calculation of delinquent penalty time in `updateTimeDelinquentAndGetPenaltyTime` function",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/19"
+}
