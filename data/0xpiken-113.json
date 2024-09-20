@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/113",
+  "originalIssueId": 264,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/264"
+}
