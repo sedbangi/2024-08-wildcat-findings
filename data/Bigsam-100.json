@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": "Repaying outstanding debt by the borrower will not clear the debt in the system thus the contract incurs more debt after calling this function",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/100",
+  "originalIssueId": 133,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/133"
+}
