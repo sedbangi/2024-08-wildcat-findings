@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "saneryee",
+  "risk": "2",
+  "title": "Inconsistent Minimum Balance Checks Enable Known Lender Status Bypass via `onTransfer` function",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/41",
+  "originalIssueId": 233,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/233"
+}
