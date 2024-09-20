@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "`HooksFactory#_deployMarket‎()` didn't check if `originationFeeAmount` is zero or not",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/94",
+  "originalIssueId": 169,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/169"
+}
