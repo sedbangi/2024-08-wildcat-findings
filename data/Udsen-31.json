@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "Memory Corruption Risk in LibStoredInitCode Due to Scratch Space Overuse",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/31",
+  "originalIssueId": 279,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/279"
+}
