@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "`state.scaleFactor` is calculated incorrectly when handling the current expired withdrawal batch",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/54",
+  "originalIssueId": 164,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/164"
+}
