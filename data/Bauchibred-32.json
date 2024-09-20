@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "Deposits/borrows deviate from intended implementation",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/32",
+  "originalIssueId": 271,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/271"
+}
