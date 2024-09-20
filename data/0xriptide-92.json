@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xriptide",
+  "risk": "2",
+  "title": "Sanctioned user can modify state of the market",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/92",
+  "originalIssueId": 171,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/171"
+}
