@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "pfapostol",
+  "risk": "2",
+  "title": "Role providers cannot be EOAs as stated in the documentation.",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/49",
+  "originalIssueId": 181,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/181"
+}
