@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "sam",
+  "risk": "2",
+  "title": "`WildcantMarketWithdrawals.sol::executeWithdrawals` function does not have validation check for the sufficient balance  is there to repay all the address in the queue",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/105",
+  "originalIssueId": 43,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/43"
+}
