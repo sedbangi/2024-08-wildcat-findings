@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "ThePharmacist",
+  "risk": "3",
+  "title": "Markets do not update delinquency correctly if the account goes underwater through interest accrual",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/89",
+  "originalIssueId": 210,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/210"
+}
