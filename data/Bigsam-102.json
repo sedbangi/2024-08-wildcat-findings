@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": "A user with expired credentials can receive tokens and bypass restrictions because credentials check is not enforced in the transfer hook as it is one in the deposit hook ",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/102",
+  "originalIssueId": 104,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/104"
+}
