@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "3",
+  "title": "The `annualInterestBips` of a market hooked by a fixed-term hook can be reduced at any time even when the fixed term time of the market has not yet elapsed",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/95",
+  "originalIssueId": 168,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/168"
+}
