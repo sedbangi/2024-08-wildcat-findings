@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "`WildcatMarketConfig#nukeFromOrbit()` reverts even if the lender has been marked as sanctioned",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/51",
+  "originalIssueId": 167,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/167"
+}
