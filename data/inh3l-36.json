@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "inh3l",
+  "risk": "2",
+  "title": "Hook deployment is vulnerable to reorg situations ",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/36",
+  "originalIssueId": 254,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/254"
+}
