@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Infect3d",
+  "risk": "2",
+  "title": "Market using `stETH` might still be delinquent after `repayDeliquentDebt`",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/25",
+  "originalIssueId": 319,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/319"
+}
