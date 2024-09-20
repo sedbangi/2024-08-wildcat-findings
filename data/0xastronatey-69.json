@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xastronatey",
+  "risk": "3",
+  "title": "Sanctioned Addresses Can Repay and Modify Market State in WildcatMarketWithdrawals",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/69",
+  "originalIssueId": 13,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/13"
+}
