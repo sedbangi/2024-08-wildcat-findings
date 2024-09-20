@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "Block reorg can cause unexpected behaviour during deployment of WildcatMarkets which could lead to broken functionality of the protocol",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/79",
+  "originalIssueId": 277,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/277"
+}
