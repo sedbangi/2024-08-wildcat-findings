@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xastronatey",
+  "risk": "3",
+  "title": "Sanctioned Addresses Can Repay Debt, Violating Market State Modification Restrictions",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/70",
+  "originalIssueId": 3,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/3"
+}
