@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "deadrxsezzz",
+  "risk": "2",
+  "title": "Role providers can bypass intended restrictions and lower expiry set by other providers",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/57",
+  "originalIssueId": 147,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/147"
+}
