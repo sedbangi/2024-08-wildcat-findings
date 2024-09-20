@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Infect3d",
+  "risk": "3",
+  "title": "`repayDeliquentDebt` is not effective, as the market will become delinquent again on next block",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/73",
+  "originalIssueId": 318,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/318"
+}
