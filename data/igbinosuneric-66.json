@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "igbinosuneric",
+  "risk": "2",
+  "title": "Blacklisted Assets Can Be Used as Origination Fee Assets in Hooks Templates",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/66",
+  "originalIssueId": 40,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/40"
+}
