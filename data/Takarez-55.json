@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Takarez",
+  "risk": "2",
+  "title": "The penalty APR to be returned can be manipulated",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/55",
+  "originalIssueId": 154,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/154"
+}
