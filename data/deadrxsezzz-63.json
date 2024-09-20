@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "deadrxsezzz",
+  "risk": "2",
+  "title": "FIFO queue is not strict enough ",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/63",
+  "originalIssueId": 121,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/121"
+}
