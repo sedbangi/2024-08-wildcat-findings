@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "inh3l",
+  "risk": "2",
+  "title": "`onExecuteWithdrawal` hook uses an incorrect function signature definition",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/38",
+  "originalIssueId": 240,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/240"
+}
