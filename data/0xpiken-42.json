@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "All external functions in `HooksFactory` are not protected by SphereX",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/42",
+  "originalIssueId": 226,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/226"
+}
