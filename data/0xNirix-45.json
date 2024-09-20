@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xNirix",
+  "risk": "2",
+  "title": "Inconsistent Behavior in Temporary Reserve Ratio Calculation After Interest Rate Changes",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/45",
+  "originalIssueId": 200,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/200"
+}
