@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "The repayment is made after the market state is update in the `WildcatMarket.repayOutstandingDebt` and `WildcatMarket.repayDelinquentDebt` functions thus putting the borrower at a disadvantage",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/72",
+  "originalIssueId": 325,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/325"
+}
