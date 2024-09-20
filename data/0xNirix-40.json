@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xNirix",
+  "risk": "2",
+  "title": "Inconsistent Access Control Allows Known Lenders to Bypass Deposit Restrictions via Transfers",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/40",
+  "originalIssueId": 236,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/236"
+}
