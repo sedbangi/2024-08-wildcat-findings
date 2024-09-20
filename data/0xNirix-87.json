@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xNirix",
+  "risk": "2",
+  "title": "Lenders' funds is locked without interest in prematurely closed fixed-term loan markets",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/87",
+  "originalIssueId": 225,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/225"
+}
