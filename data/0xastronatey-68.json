@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xastronatey",
+  "risk": "3",
+  "title": "A Sanctioned Borrower Can Close Markets Gracefully in WildCatMarket",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/68",
+  "originalIssueId": 30,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/30"
+}
