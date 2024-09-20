@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "deadrxsezzz",
+  "risk": "2",
+  "title": "`FixedTermLoanHook` looks at `block.timestamp` instead of `expiry`",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/60",
+  "originalIssueId": 129,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/129"
+}
