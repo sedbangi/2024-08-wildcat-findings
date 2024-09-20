@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "Invalid `hooks templates` could be used for market deployments in the `HooksFactory.deployMarket` function",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/71",
+  "originalIssueId": 330,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/330"
+}
