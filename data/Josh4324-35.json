@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Josh4324",
+  "risk": "2",
+  "title": "Increasing APR when reserve ratio is zero and borrower uses all the funds moves the account to delinquency",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/35",
+  "originalIssueId": 258,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/258"
+}
