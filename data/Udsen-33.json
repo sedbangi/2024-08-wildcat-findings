@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "Lack of validation of the `FixedTermLoanHooks.setFixedTermEndTime` function can lead to unintended behaviour",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/33",
+  "originalIssueId": 267,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/267"
+}
