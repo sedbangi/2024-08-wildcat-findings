@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Stormreckson",
+  "risk": "2",
+  "title": "originationFeeAsset can be a sanctioned asset",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/104",
+  "originalIssueId": 60,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/60"
+}
