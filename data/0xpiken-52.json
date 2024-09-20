@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "No lender is able to exit even after the market is closed",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/52",
+  "originalIssueId": 166,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/166"
+}
