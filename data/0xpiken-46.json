@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "The `reserveRatioBips` will be incorrect if a market APR is reduced again two weeks after the initial reduction of over 25%",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/46",
+  "originalIssueId": 198,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/198"
+}
