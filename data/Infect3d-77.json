@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Infect3d",
+  "risk": "3",
+  "title": "`FixedTermLoanHooks` allow Borrower to update Annual Interest before end of the \"Fixed Term Period\"",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/77",
+  "originalIssueId": 302,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/302"
+}
