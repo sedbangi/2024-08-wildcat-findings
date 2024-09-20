@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "artilugio0",
+  "risk": "2",
+  "title": "Delinquency fee can be totally or partially avoided due to MarketState.isDelinquent only being updated at the end of a market operation",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/103",
+  "originalIssueId": 89,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/89"
+}
