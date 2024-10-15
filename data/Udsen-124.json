@@ -1,0 +1,10 @@
+{
+  "contest": 434,
+  "handle": "Udsen",
+  "risk": "2",
+  "title": "Inability to Override Erroneous Chainalysis Sanction Flag for Borrowers in WildcatMarket.borrow Function ",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2024-08-wildcat-findings/issues/124",
+  "originalIssueId": 310,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-wildcat-validation/issues/310"
+}
